@@ -5,46 +5,46 @@
     "figures":[
         {
             "id":1,
-            "nombre":"Rarity",
-            "tipo":"Mega",
-            "altura":50,
-            "peso":3,
+            "name":"Rarity",
+            "type":"Mega",
+            "height":50,
+            "weight":3,
             "des":"Dragón unicornio con el poder de cambias el aspecto de las cosas",
             "figure":"https://drive.google.com/uc?export=view&id=1xxHET5XE_0VYOKMAiArfaITJ2fqIC-91"
         },
         {
             "id":2,
-            "nombre":"Light",
-            "tipo":"Normal",
-            "altura":40,
-            "peso":3.5,
+            "name":"Light",
+            "type":"Normal",
+            "height":40,
+            "weight":3.5,
             "des":"Unicornio con el poder de hacer nevar",
             "figure":"https://drive.google.com/uc?export=view&id=1zXqV8_BziOgW4uXNTDa0WHEqDLU76T1O"    
         },
         {
             "id":3,
-            "nombre":"Kychan",
-            "tipo":"Mega",
-            "altura":45,
-            "peso":3,
+            "name":"Kychan",
+            "type":"Mega",
+            "height":45,
+            "weight":3,
             "des":"Dragón chino con el poder de quemar las cosas",
             "figure":"https://drive.google.com/uc?export=view&id=1TMmji3UDszEBwd0-1eGEwQJH8zvddWT7"        
         },
         {
             "id":4,
-            "nombre":"Heads",
-            "tipo":"Mega",
-            "altura":70,
-            "peso":5,
+            "name":"Heads",
+            "type":"Mega",
+            "height":70,
+            "weight":5,
             "des":"Dragón de doble cabeza con el poder de desaparecer las cosas",
             "figure":"https://drive.google.com/uc?export=view&id=1soIBU4Vor3AGwylqzq1WV7SU_Lu4SbpK"  
         },
         {
             "id":5,
-            "nombre":"Star",
-            "tipo":"Normal",
-            "altura":40,
-            "peso":5,
+            "name":"Star",
+            "typo":"Normal",
+            "height":40,
+            "weight":5,
             "des":"Dinosaurio con el poder de hacer temblar",
             "figure":"https://drive.google.com/uc?export=view&id=12YYiZ9ACD6ccsmmruhfJpZm7p0_TGKPk"      
         }
