@@ -1,2 +1,2 @@
 # proyectoWeb
-Ejemplo del proyecto final - curso fundamentos de programación web -
+Ejemplo de objeto JSON - curso fundamentos de programación web -
